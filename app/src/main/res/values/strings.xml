@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="auth_title">FET</string>
+    <string name="auth_subtitle">SDP</string>
+    <string name="auth_description">生物辨識測試</string>
+    <string name="error_msg_auth_error">授權錯誤</string>
+    <string name="error_msg_auth_failed">授權失敗</string>
+    <string name="error_msg_no_biometric_hardware">No Biometric Hardware</string>
+    <string name="error_msg_biometric_hw_unavailable">Biometric hardware unavailable</string>
+    <string name="error_msg_biometric_not_setup">Biometric not setup</string>
+    <string name="success_msg">成功</string>
+</resources>
